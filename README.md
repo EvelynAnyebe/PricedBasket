@@ -2,6 +2,9 @@
 
 This is a program that can price a basket of goods whilst allowing for special offers.
 
+<img width="676" alt="image" src="https://user-images.githubusercontent.com/29458310/194794556-e79c61ef-bf42-4263-a0f5-2ca88312cd73.png">
+
+
 ## Assumptions
 - This program assumes that a store already exists with goods/products and special offers defined.
 - The current special offer runs for this week
