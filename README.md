@@ -16,6 +16,11 @@ Currently available goods are:
 •	Oranges – £1.90 per bag - 10
 ```
  
+```
 Current special offers are: 
+
 •	Oranges have 20% discount this week 
 •	Multi-buy offer – buy 2 tins of beans and get a half price loaf of bread 
+```
+
+
