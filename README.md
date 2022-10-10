@@ -23,4 +23,37 @@ Current special offers are:
 •	Multi-buy offer – buy 2 tins of beans and get a half price loaf of bread 
 ```
 
+This application is designed such that the BasketManager can receive data from a database and initialize its store as needed.
+
+## Design
+
+Classes:
+
+- Product
+- OfferType
+- SpecialOffer
+
+Are models that represents tha data objects in the store.
+
+### Message Manager
+This is a messaging module or component to handle message sending, and display of information to the user.
+
+### Basket Manager
+This is the controller of the application. It is assisted by `CurrencyManager` and `Message Manager`
+
+### The main program provide the launch and calls the `BasketManager`
+
+## Extension
+
+- The error management and logging can be improved
+- More tests cases can be added
+- Extensible to use a database
+- Forms can be created to get input.
+
+## Test and Excution
+- Clone this repository
+-  Open it with Visual Studio
+-  Run test
+-  Run the program in debug mode.
+
 
