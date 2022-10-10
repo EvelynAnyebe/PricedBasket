@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PricedBasket", "PricedBasket\PricedBasket.csproj", "{D163C43F-DCC5-4B06-8539-0C2436A6193D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{68DF61FE-277B-4295-B41C-DD734139F76B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D163C43F-DCC5-4B06-8539-0C2436A6193D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D163C43F-DCC5-4B06-8539-0C2436A6193D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D163C43F-DCC5-4B06-8539-0C2436A6193D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D163C43F-DCC5-4B06-8539-0C2436A6193D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68DF61FE-277B-4295-B41C-DD734139F76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DF61FE-277B-4295-B41C-DD734139F76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DF61FE-277B-4295-B41C-DD734139F76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DF61FE-277B-4295-B41C-DD734139F76B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80EB290F-82B6-4213-867F-95E603400D24}
+	EndGlobalSection
+EndGlobal
